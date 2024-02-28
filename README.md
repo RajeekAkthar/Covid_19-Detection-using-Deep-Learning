@@ -23,5 +23,5 @@ A Django based Web Application to detect the presence of [COVID-19](https://en.w
 
 
 ### Dataset
-- Dataset Link - [Chest X-Ray images](https://www.kaggle.com/datasets/rajeekakthar/chest-x-ray-images))
+- Dataset Link - [Chest X-Ray images](https://www.kaggle.com/datasets/rajeekakthar/chest-x-ray-images)
  

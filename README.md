@@ -1,5 +1,8 @@
 # Covid-19 Detection using Deep Learning
 
+## Publication
+[Covid-19 Detection using Deep Learning](https://ijrpr.com/uploads/V4ISSUE5/IJRPR13401.pdf)
+
 ## About
 A Django based Web Application to detect the presence of [COVID-19](https://en.wikipedia.org/wiki/COVID-19) in Chest X-Ray Images. The Deep Learning models are trained on a publicly available dataset of ~21000 Chest X-Ray Images labelled as COVID-19 or Non-COVID or Normal. The models were trained separately on the dataset and the weightfiles were later loaded onto the Webapp to detect the presence of COVID-19
 

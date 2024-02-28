@@ -5,7 +5,7 @@ A Django based Web Application to detect the presence of [COVID-19](https://en.w
 
 ## Demo 
 <p align="center">
-  <img src="/Demo/demo.gif" alt="animated" />
+  <img src="demo/First.png" alt="animated" />
 </p>
 
 ## Model Performance

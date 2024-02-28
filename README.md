@@ -17,17 +17,6 @@ A Django based Web Application to detect the presence of [COVID-19](https://en.w
 <p align="center">
 <img src ="https://user-images.githubusercontent.com/53687927/118810680-c8b25600-b8c9-11eb-9d98-35baa3f3f42e.png"></p>
 
-- **Loss Curves**
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53687927/118811264-6c036b00-b8ca-11eb-8105-c9c8673e3d6c.png"></p>
-
-- **Confusion Matrix Obtained**
-<br>
-<p align="center">
-<img src ="https://user-images.githubusercontent.com/53687927/118810998-1cbd3a80-b8ca-11eb-80c7-78a6ecbd2665.png"></p>
-
-
 
 ### Dataset
 - Dataset Link - [SARS-COV2-Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)

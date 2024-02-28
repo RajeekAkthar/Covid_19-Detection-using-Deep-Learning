@@ -8,6 +8,10 @@ A Django based Web Application to detect the presence of [COVID-19](https://en.w
   <img src="demo/First.png" alt="animated" />
 </p>
 
+<p align="center">
+  <img src="demo/Last.png" alt="animated" />
+</p>
+
 ## Model Performance
 
 ### CNN Architecture
